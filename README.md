@@ -1,11 +1,8 @@
 ### Hi there! 👋
 
-<!--
-**kamilia-firzanah/kamilia-firzanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Kamilia Firzanah and here are some info about me:
 
 - 🔭 I’m a 3rd year university student
 - 🌱 I’m currently taking Statistics major
 - 👯 I have a keen interest in data science, especially data analytics and machine learning
--->
+
